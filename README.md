@@ -24,7 +24,7 @@
 ### ⚙️ Tools & Technologies
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white)
 ![GCC](https://img.shields.io/badge/GCC-000?style=for-the-badge&logo=gnu&logoColor=white)
 
 ---
@@ -67,5 +67,3 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
 </p>
 
-
-> ⚡ *Fun fact:* C might be low-level, but it gives you high-level power!
