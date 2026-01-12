@@ -33,9 +33,6 @@ C · Memory · Performance · Discipline
   <img src="https://github-readme-stats.vercel.app/api?username=luimiguee&show_icons=true&hide_title=true&hide_rank=true&theme=transparent" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=luimiguee&theme=transparent" />
-</p>
 
 ```txt
 miguelpato313@gmail.com
