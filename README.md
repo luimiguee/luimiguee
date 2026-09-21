@@ -24,13 +24,7 @@
 
 ![Tech Stack](https://skillicons.dev/icons?i=c,ts,react,html,css,git,github,vscode&theme=dark)
 
----
 
-### 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=luimiguee&show_icons=true&theme=dark&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=luimiguee&layout=compact&theme=dark&hide_border=true)
 
 ---
 
