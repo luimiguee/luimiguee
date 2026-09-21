@@ -1,48 +1,42 @@
-```c
-/* ************************************************************************** */
-/*                                                                            */
-/*                                                        :::      ::::::::   */
-/*   Miguel                                             :+:      :+:    :+:   */
-/*                                                    +:+ +:+         +:+     */
-/*   Student @ ISPGaya                                  +#+  +:+       +#+        */
-/*   Technical Degree in Programação de Sistemas        +#+#+#+#+#+   +#+           */
-/*   Informáticos                                       #+#    #+#             */
-/*                                                    ###   ########.fr       */
-/*                                                                            */
-/* ************************************************************************** */
-```
-
-
+<!-- HEADER ESTILO 42 -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=C+Developer;Low-level+Programming;JavaScript+%7C+TypeScript+%7C+CSS;Learning+by+doing" />
+  <img src="https://raw.githubusercontent.com/42School/42header/master/42_logo.svg" alt="42 Logo" width="80"/>
 </p>
 
-```txt
-C · Memory · Performance · Discipline
-```
+<h1 align="center">Miguel Pato</h1>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,js,ts,css&theme=dark" />
+  <b>ISPGAYA Student | Software Developer</b>
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,git,vim&theme=dark" />
+  <a href="mailto:miguelpato313@gmail.com">
+    <img src="https://img.shields.io/badge/Email-miguelpato313%40gmail.com-000000?style=flat-square&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <img src="https://img.shields.io/badge/Institution-ISPGAYA-000000?style=flat-square" alt="ISPGAYA">
 </p>
 
+---
 
+### 🛠️ Tech Stack
 
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,ts,react,html,css,git,github,vscode&theme=dark" />
+</p>
 
-```txt
-miguelpato313@gmail.com
-```
+---
 
-```c
-while (learning)
-{
-    build();
-    break();
-    fix();
-}
-```
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=luimiguee&show_icons=true&theme=dark&hide_border=true&count_private=true" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luimiguee&layout=compact&theme=dark&hide_border=true" />
+</p>
+
+---
+
+<p align="center">
+  <i>"Clean code, simple structure."</i>
+</p>
 
 
