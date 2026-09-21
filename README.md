@@ -1,7 +1,15 @@
-<!-- HEADER ESTILO 42 -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/42School/42header/master/42_logo.svg" alt="42 Logo" width="80"/>
-</p>
+```c
+/* ************************************************************************** */
+/*                                                                            */
+/*                                                        :::      ::::::::   */
+/*   README.md                                          :+:      :+:    :+:   */
+/*                                                    +:     +:+     +:+      */
+/*   By: luimiguee <miguelpato313@gmail.com>        +#+  +:+       +#+        */
+/*                                                +#+#+#+#+#+   +#+           */
+/*   Created: 2026/09/21 22:00:00 by luimiguee          #+#    #+#             */
+/*   Updated: 2026/09/21 22:00:00 by luimiguee         ###   ########.pt       */
+/*                                                                            */
+/* ************************************************************************** */
 
 <h1 align="center">Miguel Pato</h1>
 
